@@ -1,5 +1,6 @@
  HR Analytics Dashboard
-
+ 
+![Dvank_project (2)](https://github.com/user-attachments/assets/8cc72c7d-c0d8-4cd9-b09c-74039a6ed790)
 - Visualizes key HR KPIs:
   - Employee turnover rate
   - Age distribution
